@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".Carboncalc">
 
     <TextView
@@ -15,17 +16,12 @@
         android:textAlignment="center"
         android:text=" In what way do you input carbon in to the atmosphere   "/>
 
-    <EditText
-        android:textColor="#000"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="20dp"
-        android:text="type here"/>
 
     <CheckBox
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        android:text=" CAR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="car"
+        android:textSize="30sp"
 
         />
 
