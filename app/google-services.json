@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031312780313",
+    "firebase_url": "https://carbon-b5c72.firebaseio.com",
+    "project_id": "carbon-b5c72",
+    "storage_bucket": "carbon-b5c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031312780313:android:c9238ee26130569e",
+        "android_client_info": {
+          "package_name": "com.hamzah.android.carbon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031312780313-2dvq8kfn0d2urs5hll08n8kok0vhimdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxgXGfox1jVzWiNUGZnO2GPHa7LTVa5Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031312780313-2dvq8kfn0d2urs5hll08n8kok0vhimdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
